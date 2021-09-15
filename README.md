@@ -1,6 +1,6 @@
 <div align="center">
 <h3 align="center">🍀 Me 🍀</h3>
-<p align="center"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></p>
+<p align="center"><a href="https://eunhee-programming.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 <p align="center">Hi There! I'm a frontEnd developer.</p>
 <p align="center"> My main skills are HTML, CSS, JavaScript and React.</p>
 <p align="center">I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
