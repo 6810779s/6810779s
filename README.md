@@ -1,8 +1,11 @@
 <div align="center">
 
-## Eunhee Jang
+## 👋 Eunhee Jang
 
 **Frontend / Full-Stack Developer**
+
+사용자 경험과 코드 품질을 중요하게 생각하는 개발자 장은희입니다. 
+
 
 <br/>
 
