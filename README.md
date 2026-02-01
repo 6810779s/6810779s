@@ -10,11 +10,10 @@
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square)](https://eunhee-programming.tistory.com/)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square)](mailto:6810779s@naver.com)
 
-<br/>
+
 
 ---
 
-<br/>
 
 ### Tech Stack
 
@@ -26,15 +25,7 @@
 | **Backend** | `Node.js` `NestJS` `Prisma` `PostgreSQL` |
 | **Tools** | `Git` `Docker` `AWS S3` `Figma` |
 
-<br/>
-
----
-
-<br/>
-
-### GitHub Stats
-
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=graywhite&hide_border=true" height="150"/> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=graywhite&hide_border=true" height="150"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=graywhite&hide_border=true" height="150"/> -->
 
 </div>
