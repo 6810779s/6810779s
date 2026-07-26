@@ -56,6 +56,11 @@
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Next.js + App Router&rpar; fetch 실무편 2탄 - 상황별 cache 옵션 선택과 React Query 함께 쓰기](https://eunhee-programming.tistory.com/326)
+- [&lpar;Next.js + App Router&rpar; Next.js에서 fetch 사용해야 하는 이유 - 캐싱 메커니즘과 14 vs 15 버전 차이](https://eunhee-programming.tistory.com/325)
+- [&lpar;Next.js&rpar; BFF 프록시 패턴 2탄 - Next.js + React 멀티 앱 인증 공유와 서브도메인 쿠키 전략](https://eunhee-programming.tistory.com/324)
+- [&lpar;Next.js&rpar; BFF란?BFF 프록시 패턴으로 인증 구현하기 1탄 - httpOnly 쿠키와 catch-all 프록시 &lpar;App Router + TypeScript&rpar;](https://eunhee-programming.tistory.com/323)
+- [&lpar;Claude&rpar; 개발자를 위한 Claude 실무 활용 완벽 가이드 2탄 - CLAUDE.md 팀 설계 + 서브에이전트 &amp;amp; 훅 &amp;amp; MCP 심화 &lpar;코딩 생산성 향상&rpar;](https://eunhee-programming.tistory.com/322)
 <!-- BLOG-POST-LIST:END -->
 
 ▸ [eunhee-programming.tistory.com](https://eunhee-programming.tistory.com/)
